@@ -1,0 +1,24 @@
+.bg-Facebook {
+    width: 21px; height: 21px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+.bg-Flickr {
+    width: 21px; height: 21px;
+    background: url('css_sprites.png') -51px -10px;
+}
+
+.bg-RSS {
+    width: 21px; height: 21px;
+    background: url('css_sprites.png') -10px -51px;
+}
+
+.bg-Twitter {
+    width: 21px; height: 21px;
+    background: url('css_sprites.png') -51px -51px;
+}
+
+.bg-Vimeo {
+    width: 21px; height: 21px;
+    background: url('css_sprites.png') -92px -10px;
+}
