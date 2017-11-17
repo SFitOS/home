@@ -159,12 +159,7 @@ strong {}
 	background: #fff;
 	border-radius: 4px;
 	position: relative;
-	/* background: -webkit-linear-gradient(left, white 50%, #8b0 50%);
-    background-color: #fff;
-    background-size: 2px 5px;
-    background-position-y: 100%;
-    background-repeat-y: no-repeat;
-    padding-bottom: 5px; */
+
 }
 #header .header_nav .logo{
 	float: left;
@@ -576,7 +571,7 @@ strong {}
 	margin-left: 16px;
 }
 #content .about_us a:hover{
-	color: red;
+	color: #f00;
 }
 #content .about_us .fa-plus-circle{
 	color: #fff;
@@ -761,7 +756,6 @@ strong {}
 #footer .four_column ul li{
 	width: 240px;
 }
-#footer .social_icon{}
 #footer .social_icon h2{
 	font: 22px 'Myriad Pro', sans-serif;
 	color: #fff;
